@@ -1,0 +1,10 @@
+{
+  "title_color": "\u001b[95m",
+  "subtitle_color": "\u001b[94m",
+  "menu_number_color": "\u001b[96m",
+  "menu_text_color": "\u001b[97m",
+  "accent_color": "\u001b[94m",
+  "bracket_color": "\u001b[95m",
+  "error_color": "\u001b[91m",
+  "success_color": "\u001b[92m"
+}

@@ -1,0 +1,4 @@
+title = HURON
+subtitle = AI-LINUX v1.0
+theme = cyber_neon
+sound = off
