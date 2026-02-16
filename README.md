@@ -8,7 +8,7 @@ games, scripts, and info files inside the `Python/` folder and lets you run them
 2. Edit `config.txt` to change the title, subtitle or theme.
 3. Edit `settings.txt` to change animation style.
 4. (Optional) Add `sounds/*.wav` (click.wav, open.wav, exit.wav).
-5. Run `python menu.py`.
+5. Run `python menu_done.py`.
 
 ## Config
 `config.txt` contains:
@@ -29,3 +29,4 @@ Look in `themes/` for available theme JSON files.
 ## Notes
 - For Termux sound playback, install `termux-api` and allow audio playback.
 - For richer system info install `psutil` (`pip install psutil`).
+- `main.py and menu2.py` are uncompleted so no need running them.
